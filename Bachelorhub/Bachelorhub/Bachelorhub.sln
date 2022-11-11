@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bachelorhub", "Bachelorhub\Bachelorhub.csproj", "{8B07923D-EF90-4AE9-865D-F5C9BB78E52A}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "BACHELORHUB_SETUP", "BACHELORHUB_SETUP\BACHELORHUB_SETUP.vdproj", "{10FB1DFC-4A36-47BD-AEB3-E363A7391888}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B07923D-EF90-4AE9-865D-F5C9BB78E52A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B07923D-EF90-4AE9-865D-F5C9BB78E52A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B07923D-EF90-4AE9-865D-F5C9BB78E52A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B07923D-EF90-4AE9-865D-F5C9BB78E52A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10FB1DFC-4A36-47BD-AEB3-E363A7391888}.Debug|Any CPU.ActiveCfg = Debug
+		{10FB1DFC-4A36-47BD-AEB3-E363A7391888}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3235EAE9-9772-400E-AAEA-4DE18C4EBE3E}
+	EndGlobalSection
+EndGlobal
